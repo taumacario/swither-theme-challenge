@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #292C35;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container.light {
+    background-color: #E5E5E5;
+}
+
+.botao {
+    width: 80px;
+    height: 40px;
+    border-radius: 25px;
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    position: relative;
+}
+
+.lua {
+    width: 30px;
+    height: 30px;
+}
+
+/*.light .lua {
+    display: none;
+}*/
+
+.sol {
+   /* display: none;*/
+    width: 30px;
+    height: 30px;
+}
+
+/*.light .sol {
+    display: block;
+}*/
+
+.bolinha {
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: #F1F1F1;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+    position: absolute;
+    right: 5px;
+}
+
+.light .bolinha {
+    right: 45px;
+}
