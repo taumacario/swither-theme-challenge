@@ -1,7 +1,10 @@
 # Swither-theme-challenge
 
  In this challenge I had to develop a page that contained a toggle to switch between dark and light themes. 
- 
+ </br>
+ </br>
+ </br>
+
  
  Light
  
@@ -14,6 +17,8 @@
  
  <img width="648" alt="Captura de Tela 2022-11-15 às 17 04 26" src="https://user-images.githubusercontent.com/97693624/202014884-de964319-ec56-4285-be1e-aa6eea7a8b71.png">
 
-
-
-   You can see how it works on [GitHub Pages](https://taumacario.github.io/swither-theme-challenge/)
+ </br>
+ </br>
+ </br>
+ </br>
+You can see how it works on [GitHub Pages](https://taumacario.github.io/swither-theme-challenge/)
