@@ -1,4 +1,4 @@
-# Swither-theme-challenge
+# Swither-theme-challenge :bulb:
 
  In this challenge I had to develop a page that contained a toggle to switch between dark and light themes. 
  </br>
